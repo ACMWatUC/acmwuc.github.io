@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{KQGV:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),o=t.n(a),r=(t("Wbzz"),t("Bl7J")),c=t("vrFN");n.default=function(){return o.a.createElement(r.a,null,o.a.createElement(c.a,{title:"Resources"}),o.a.createElement("h1",null,"More information coming soon!"))}}}]);
+//# sourceMappingURL=component---src-pages-resources-js-9b9693f8a4f44e9d5e75.js.map
