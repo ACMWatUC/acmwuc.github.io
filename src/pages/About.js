@@ -39,7 +39,7 @@ const AboutPage = ({data}) => {
 
             <h3>Community Service Co-Chair</h3>
             <h4>Liz Tremblay</h4>
-            <p>Class: 3rd Year<br/>Major: B.S. in Computer Sciencec, Minor in Business Analytics<br/>Coops: 84.51</p>
+            <p>Class: 3rd Year<br/>Major: B.S. in Computer Science, Minor in Business Analytics<br/>Coops: 84.51</p>
 
             <h3>Community Service Co-Chair</h3>
             <h4>Mariam Bahassi</h4>
