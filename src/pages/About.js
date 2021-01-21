@@ -1,7 +1,7 @@
 import React from "react"
 import { Link } from "gatsby"
 import { graphql } from "gatsby"
-import Img from "gatsby-image"
+import Image from 'src/components/Image'
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -20,8 +20,8 @@ const AboutPage = ({data}) => {
                 and will serve as an outreach organization for current women and also, men in the 
                 field of computing.</p>
             <h1>Officers</h1>
-            <h4>Sydney O'Connor</h4>
             <h3>President</h3>
+            <h4>Sydney O'Connor</h4>
             <p>Class: 5th Year<br/>Major: B.S. in Computer Engineering, M.Eng. in Computer Science through ACCEND program<br/>Coops: L3 Technologies, Tesla, Apple</p>
             
             

@@ -13,10 +13,23 @@ const GetInvolvedPage = () => (
         <p><b>Purpose:</b> ACM-W gives back to the community with our Bearcat Coders program. 
         Volunteers can sign up to join a Bearcat Coders team to go over to Hughes High School and 
         mentor students.</p>
+        <p><b>Date:</b> Fall Semester 2020</p>
+        <p><b>Location:</b> Hughes High School (across the street from UC, on Clifton Ave.) <a href='https://goo.gl/maps/fKScyoEmFu22'>Directions from TUC.</a></p>
+        <p><b>How to Get Involved:</b> Please reach out to Liz Tremblay or Mariam Bahassi</p>
+
+        <h2>NERDS</h2>
+        <p><b>Purpose:</b> NERDS (Nurturing Educational Readiness and Development from the Start) 
+        is a nonprofit organization that offers CPS students tutoring and after school programming. 
+        This year, they are in need of student volunteers to tutor in their robotics program and 
+        do general tutoring. The robotics program gives students from grades 4-7 experience with 
+        EV3 Lego Mindstorm robotics and teaches them basic programming, team building and leadership 
+        skills. However, many of the CPS students need help with general tutoring. There are also 
+        other opportunities available for students with no robotics or coding experience including 
+        volunteer coordinator and curriculum planning!</p>
         <p><b>Date:</b> Will be discussed at our first general body meeting on Sept. 3, 2020.
         Please keep an eye out for more information!</p>
         <p><b>Location:</b> Hughes High School (across the street from UC, on Clifton Ave.) <a href='https://goo.gl/maps/fKScyoEmFu22'>Directions from TUC.</a></p>
-        <p><b>How to Get Involved:</b> More information coming out soon!</p>
+        <p><b>How to Get Involved:</b> Please reach out to Liz Tremblay or Mariam Bahassi</p>
 
         <h2>Networking Events</h2>
         <p><b>Purpose:</b> Throughout the year we work to bring in Fortune 500 companies and local 
@@ -34,7 +47,7 @@ const GetInvolvedPage = () => (
         <p><b>Participants:</b> Roughly 100 people: 50-60 high school students from inner-city 
         schools | 20 college students (volunteers) | 20 faculty members | Microsoft reps | UC Staff</p>
         <p><b>How to Get Involved:</b> Sign up to volunteer! Note: Volunteering counts towards Cincinnatus hours.</p>
-    
+
         <h2>Grace Hopper Convention</h2>
         <p><b>Purpose:</b> The Grace Hopper Celebration of Women in Computing (GHC) is the 
         World's Largest gathering of Women Technologists. It is produced by the Anita Borg 
