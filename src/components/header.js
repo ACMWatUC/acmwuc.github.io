@@ -5,13 +5,13 @@ import PropTypes from "prop-types"
 const Header = ({ siteTitle, menuLinks }) => (
   <header
     style={{
-      background: "rebeccapurple",
+      background: "firebrick",
       marginBottom: "1.45rem",
     }}
   >
     <div
       style={{
-        background: "rebeccapurple",
+        background: "firebrick",
         marginBottom: "1.45rem",
       }}
     >

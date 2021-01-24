@@ -21,7 +21,7 @@ export default function Navigation() {
   return (
     <nav
       css={css({
-        py: 2, // Short form for paddingTop and paddingBottom
+        py: 5, // Short form for paddingTop and paddingBottom
       })}
     >
       <ul
@@ -30,7 +30,7 @@ export default function Navigation() {
           listStyle: `none`,
           margin: 0,
           padding: 0,
-          verticalAlign: `baseline`
+          verticalAlign: `baseline`,
         })}
       >
         {navLinks.map(link => (
