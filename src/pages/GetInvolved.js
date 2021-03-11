@@ -13,9 +13,9 @@ const GetInvolvedPage = () => (
         <p><b>Purpose:</b> ACM-W gives back to the community with our Bearcat Coders program. 
         Volunteers can sign up to join a Bearcat Coders team to go over to Hughes High School and 
         mentor students.</p>
-        <p><b>Date:</b> Fall Semester 2020</p>
+        <p><b>Date:</b> Spring Semester 2021</p>
         <p><b>Location:</b> Hughes High School (across the street from UC, on Clifton Ave.) <a href='https://goo.gl/maps/fKScyoEmFu22'>Directions from TUC.</a></p>
-        <p><b>How to Get Involved:</b> Please reach out to Liz Tremblay or Mariam Bahassi</p>
+        <p><b>How to Get Involved: </b> <br></br><a href = "https://docs.google.com/presentation/d/1He4XEBMklS8cABcOPS3td9iIMR4da8sPF2UemqmA0cA/edit?usp=sharing">Link to Orientation Meeting Slides</a><br></br><a href = "https://web.microsoftstream.com/video/58c4e2dd-7ac3-455e-88df-df825aa8b96e">Link to Orientation Meeting for 2021</a><br></br>Please reach out to Liz Tremblay or Mariam Bahassi for more questions</p>
 
         <h2>NERDS</h2>
         <p><b>Purpose:</b> NERDS (Nurturing Educational Readiness and Development from the Start) 

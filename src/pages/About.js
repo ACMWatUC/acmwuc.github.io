@@ -173,14 +173,6 @@ const AboutPage = () => {
                 <td><Img fixed = {data.advisor2.childImageSharp.fixed}/></td>
               </tr>
             </table>
-
-            
-            
-            
-
-            
-            
-
         </Layout>
     )
 }
