@@ -1,0 +1,50 @@
+body, html {
+    font-family: 'Poppins', 'Arial' ;
+    background-color: white;
+}
+
+.facebook,
+.instagram,
+.linkedin,
+.slack {
+    font-size: 1em;
+}
+
+.intro {
+    margin: auto;
+}
+
+.intro .container {
+    text-align: center;
+}
+
+.intro h1 {
+    font-weight: bold;
+    font-size: 3.5rem;
+}
+
+.card-body h5 {
+    text-align: center;
+}
+
+.about-us-main a i {
+    color: gray;
+}
+
+.about-us-main a i:hover {
+    color: darkgray;
+}
+
+.map-container{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.map-container iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
